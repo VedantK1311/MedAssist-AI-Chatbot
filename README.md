@@ -18,7 +18,7 @@ Boosting user satisfaction by 50%
 
 Setup & Installation:
 Clone the repository
-git clone https://github.com/your-username/MedAssistAI.git
+git clone https://github.com/VedantK1311/MedAssist-AI-Chatbot.git
 cd MedAssistAI
 
 Install dependencies:
